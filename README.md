@@ -11,7 +11,7 @@ Objective : คือศึกษาความสัมพันธ์ขอ�
 1.ความสัมพันธ์ระหว่าง อัตราการว่างงานและค่าแรงขั้นต่ำ
 
 กรุงเทพ :
-        Predict-CPI-and-Unemployment-Rate-by-Minimun-Wage-Rate/Unempolyment-and-Minimum-wage-rate/UnemMWRCT.ipynb
+        [Predict-CPI-and-Unemployment-Rate-by-Minimun-Wage-Rate/Unempolyment-and-Minimum-wage-rate/UnemMWRCT.ipynb](https://github.com/Apinya-ja-ha/Predict-CPI-and-Unemployment-Rate-by-Minimun-Wage-Rate/blob/master/Unempolyment-and-Minimum-wage-rate/UnemMWRCT.ipynb)
       
 
 ปริมณฑล :
