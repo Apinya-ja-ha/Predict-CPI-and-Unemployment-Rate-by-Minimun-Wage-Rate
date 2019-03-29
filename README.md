@@ -11,21 +11,19 @@ Objective : คือศึกษาความสัมพันธ์ขอ�
 1.ความสัมพันธ์ระหว่าง อัตราการว่างงานและค่าแรงขั้นต่ำ
 
 กรุงเทพ :
-[Predict-CPI-and-Unemployment-Rate-by-Minimun-Wage-Rate/Unempolyment-and-Minimum-wage-rate/UnemMWRBKK.ipynb]
-(https://github.com/Apinya-ja-ha/Predict-CPI-and-Unemployment-Rate-by-Minimun-Wage-Rate/blob/master/Unempolyment-and-Minimum-wage-rate/UnemMWRBKK.ipynb)
+[Predict-CPI-and-Unemployment-Rate-by-Minimun-Wage-Rate/Unempolyment-and-Minimum-wage-rate/UnemMWRBKK.ipynb](https://github.com/Apinya-ja-ha/Predict-CPI-and-Unemployment-Rate-by-Minimun-Wage-Rate/blob/master/Unempolyment-and-Minimum-wage-rate/UnemMWRBKK.ipynb)
       
 ปริมณฑล :
 [Predict-CPI-and-Unemployment-Rate-by-Minimun-Wage-Rate/Unempolyment-and-Minimum-wage-rate/UnemMWRVi.ipynb](https://github.com/Apinya-ja-ha/Predict-CPI-and-Unemployment-Rate-by-Minimun-Wage-Rate/blob/master/Unempolyment-and-Minimum-wage-rate/UnemMWRVi.ipynb)
 
 ภาคใต้ :
-[Predict-CPI-and-Unemployment-Rate-by-Minimun-Wage-Rate/Unempolyment-and-Minimum-wage-rate/UnemMWRSouth.ipynb](https://github.com/Apinya-ja-ha/Predict-CPI-and-Unemployment-Rate-by-Minimun-Wage-Rate/blob/master/Unempolyment-and-Minimum-wage-rate/UnemMWRSouth.ipynb)
+[Predict-CPI-and-Unemployment-Rate-by-Minimun-Wage-Rate/Unempolyment-and-Minimum-wage-rate/UnemMWRSouth.ipynb(https://github.com/Apinya-ja-ha/Predict-CPI-and-Unemployment-Rate-by-Minimun-Wage-Rate/blob/master/Unempolyment-and-Minimum-wage-rate/UnemMWRSouth.ipynb)
 
 ภาคเหนือ :
-[Predict-CPI-and-Unemployment-Rate-by-Minimun-Wage-Rate/Unempolyment-and-Minimum-wage-rate/UnemMWRNorth.ipynb](https://github.com/Apinya-ja-ha/Predict-CPI-and-Unemployment-Rate-by-Minimun-Wage-Rate/blob/master/Unempolyment-and-Minimum-wage-rate/UnemMWRNorth.ipynb)
+[Predict-CPI-and-Unemployment-Rate-by-Minimun-Wage-Rate/Unempolyment-and-Minimum-wage-rate/UnemMWRNorth.ipynb(https://github.com/Apinya-ja-ha/Predict-CPI-and-Unemployment-Rate-by-Minimun-Wage-Rate/blob/master/Unempolyment-and-Minimum-wage-rate/UnemMWRNorth.ipynb)
 
 ภาคตะวันออกเฉียงเหนือ :
-[Predict-CPI-and-Unemployment-Rate-by-Minimun-Wage-Rate/Unempolyment-and-Minimum-wage-rate/UnemMWRNE.ipynb]
-(https://github.com/Apinya-ja-ha/Predict-CPI-and-Unemployment-Rate-by-Minimun-Wage-Rate/blob/master/Unempolyment-and-Minimum-wage-rate/UnemMWRNE.ipynb)
+[Predict-CPI-and-Unemployment-Rate-by-Minimun-Wage-Rate/Unempolyment-and-Minimum-wage-rate/UnemMWRNE.ipynb](https://github.com/Apinya-ja-ha/Predict-CPI-and-Unemployment-Rate-by-Minimun-Wage-Rate/blob/master/Unempolyment-and-Minimum-wage-rate/UnemMWRNE.ipynb)
 
 ภาคกลาง : 
         [Predict-CPI-and-Unemployment-Rate-by-Minimun-Wage-Rate/Unempolyment-and-Minimum-wage-rate/UnemMWRCT.ipynb](https://github.com/Apinya-ja-ha/Predict-CPI-and-Unemployment-Rate-by-Minimun-Wage-Rate/blob/master/Unempolyment-and-Minimum-wage-rate/UnemMWRCT.ipynb)
