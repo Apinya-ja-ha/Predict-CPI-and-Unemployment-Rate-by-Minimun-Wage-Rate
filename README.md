@@ -1,0 +1,1 @@
+# Predict-CPI-and-Unemployment-Rate-by-Minimun-Wage-Rate
