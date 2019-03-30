@@ -34,5 +34,26 @@ Objective : คือศึกษาความสัมพันธ์ขอ�
  ทั้งนี้ทำให้การใช้ model ดังกล่าวในการทำนาย อัตราการว่างงาน มีความไม่แม่นยำสูงไม่ว่าจะในภาคไหนก็ตาม
  
  
- 
+2.ความสัมพันธ์ระหว่าง CPIและค่าแรงขั้นต่ำ
+
+กรุงเทพ : [CPI-and-Minimum-wage-rate/CPI-and-Minimum-wage-rate/CPIMWRBKK.ipynb](https://github.com/Apinya-ja-ha/CPI-and-Minimum-wage-rate/blob/master/CPI-and-Minimum-wage-rate/CPIMWRBKK.ipynb)
+
+ปริมณฑล :
+[CPI-and-Minimum-wage-rate/CPI-and-Minimum-wage-rate/CPIMWRVi.ipynb](https://github.com/Apinya-ja-ha/CPI-and-Minimum-wage-rate/blob/master/CPI-and-Minimum-wage-rate/CPIMWRVi.ipynb)
+
+ภาคใต้ :
+[CPI-and-Minimum-wage-rate/CPI-and-Minimum-wage-rate/CPIMWRSouth.ipynb](https://github.com/Apinya-ja-ha/CPI-and-Minimum-wage-rate/blob/master/CPI-and-Minimum-wage-rate/CPIMWRSouth.ipynb)
+
+ภาคเหนือ :
+[CPI-and-Minimum-wage-rate/CPI-and-Minimum-wage-rate/CPIMWRNorth.ipynb](https://github.com/Apinya-ja-ha/CPI-and-Minimum-wage-rate/blob/master/CPI-and-Minimum-wage-rate/CPIMWRNorth.ipynb)
+
+ภาคตะวันออกเฉียงเหนือ :
+[CPI-and-Minimum-wage-rate/CPI-and-Minimum-wage-rate/CPIMWRNE.ipynb](https://github.com/Apinya-ja-ha/CPI-and-Minimum-wage-rate/blob/master/CPI-and-Minimum-wage-rate/CPIMWRNE.ipynb)
+
+ภาคกลาง : 
+[CPI-and-Minimum-wage-rate/CPI-and-Minimum-wage-rate/CPIMWRCT.ipynb](https://github.com/Apinya-ja-ha/CPI-and-Minimum-wage-rate/blob/master/CPI-and-Minimum-wage-rate/CPIMWRCT.ipynb)
+
+
+
+
  
